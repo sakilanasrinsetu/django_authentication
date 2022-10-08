@@ -44,6 +44,7 @@ THIRD_PARTY_APPS=[
     'drf_yasg2',
     'rest_framework',
     'django__authentication',
+    'django_extensions',
 
 ]
 
@@ -181,6 +182,10 @@ REST_KNOX = {
     'TOKEN_TTL': timedelta(hours=8760), # Token valid For Almost 1 Year
 }
 
+GRAPH_MODELS = {
+  'all_applications': True,
+  'group_models': True,
+}
 
 
 
