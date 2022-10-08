@@ -6,7 +6,7 @@
 
 **Awesome Django Authentication With Both Email and Phone APIs.**
 
-Full documentation for the project is available at http://127.0.0.1:8000/redoc/ and Icow Documantion https://docs.biopassid.com/#9aaa15ff-2055-46b3-9c32-53360d8b19e8
+Full documentation for the project is available at http://127.0.0.1:8000/redoc/
 
 
 ---
